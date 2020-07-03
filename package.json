@@ -1,6 +1,7 @@
 {
-  "name": "juuust-icon",
-  "version": "0.3.0",
+
+  "name": "cigar-icon",
+  "version": "0.0.1",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
   "module": "build/index.js",
